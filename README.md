@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Mayur Sable</h1>
 
 <h3 align="center">
@@ -143,4 +142,3 @@ Building my journey through Linux, AWS, Docker, Jenkins, and Kubernetes while do
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
-```
