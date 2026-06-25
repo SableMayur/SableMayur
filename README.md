@@ -1,102 +1,146 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Mayur Sable</h1>
 
 <h3 align="center">
-Cloud & DevOps Enthusiast • Final Year Computer Engineering Student
+☁️ Cloud & DevOps Enthusiast | Final Year Computer Engineering Student
 </h3>
 
+<p align="center">
+Building my journey through Linux, AWS, Docker, Jenkins, and Kubernetes while documenting every step with hands-on projects.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sablemayur/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mayur%20Sable-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SableMayur">
+<img src="https://img.shields.io/badge/GitHub-SableMayur-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SableMayur&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Final Year Computer Engineering Student
-
-☁️ Passionate about Cloud Computing & DevOps
-
-🐧 Learning Linux, AWS, Docker, Jenkins, Kubernetes & Terraform
-
-💻 Building real-world DevOps projects
-
-📚 Documenting my learning journey on GitHub
-
-🎯 Goal: Become a Cloud & DevOps Engineer
+- 🎓 Final Year Computer Engineering Student
+- ☁️ Passionate about Cloud Computing & DevOps
+- 🐧 Hands-on experience with Linux, Docker, AWS & Jenkins
+- 🚀 Building real-world Cloud & DevOps projects
+- 📚 Documenting my complete learning journey on GitHub
+- 🎯 Aspiring Cloud & DevOps Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Top Skills
+
+- 🐧 Linux System Administration
+- ☁️ Amazon Web Services (AWS)
+- 🐳 Docker
+- 🔄 Jenkins (CI/CD)
+- 🌿 Git & GitHub
+
+---
+
+# 🛠 Tech Stack
 
 ### Cloud
 
-- AWS
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ### DevOps
 
-- Docker
-- Jenkins
-- Kubernetes
-- Terraform
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,terraform,git,github" />
+</p>
 
 ### Operating Systems
 
-- Linux
-- Windows
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
-### Version Control
+### Programming & Scripting
 
-- Git
-- GitHub
-
-### Programming
-
-- Java
-- Python
-
-### Scripting
-
-- Bash
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,bash" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 📚 Currently Working On
 
-- Linux Administration
-- Docker
-- AWS Services
-- Jenkins CI/CD
-- Kubernetes
-- Terraform
-
----
-
-## 📂 Featured Projects
-
-- 🚀 Cloud & DevOps Learning Journey
-- 🐧 Linux Labs
-- 🐳 Docker Hands-on
-- ☁️ AWS Projects
-- 🔄 Jenkins Pipelines
-- ☸ Kubernetes Labs
+- 🐳 Docker & Containerization
+- ☁️ AWS Cloud Services
+- 🔄 CI/CD Pipelines with Jenkins
+- ☸️ Kubernetes Fundamentals
+- 🏗 Infrastructure as Code with Terraform
 
 ---
 
-## 🎯 2026 Goals
+# 📂 Featured Repositories
 
-- Master Linux
-- Master Docker
-- Learn Kubernetes
-- Build End-to-End DevOps Projects
-- Earn AWS Certification
-- Contribute to Open Source
+⭐ Cloud & DevOps Learning Journey
 
----
+⭐ Linux Labs
 
-## 📫 Connect with Me
+⭐ Docker Hands-on
 
-LinkedIn
+⭐ AWS Hands-on Labs
 
-Email
+⭐ Jenkins CI/CD
 
-Portfolio
+⭐ Kubernetes Labs
 
 ---
 
-> "Learn. Build. Document. Share. Repeat."
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SableMayur&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SableMayur&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SableMayur&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sablemayur/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Learn. Build. Automate. Share."** 🚀
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
+```
